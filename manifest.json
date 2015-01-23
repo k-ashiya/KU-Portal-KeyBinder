@@ -1,6 +1,6 @@
 {
   "name": "KU-Portal-KeyBinder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "京都大学の全学生共通ポータルにログイン後の画面で、キー操作一つで各リンクへ飛ぶためのExtension",
   "author": "Kazuki Ashiya",
